@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk"/>
+	<classpathentry kind="lib" path="lib/flume-ng-configuration-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-core-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-sdk-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/kudu-client-0.10.0-20160815.021938-161.jar"/>
+	<classpathentry kind="lib" path="lib/async-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.7.1.2.3.4.0-3485.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/kudu-mapreduce-0.10.0-jar-with-dependencies-nomapreduce.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
